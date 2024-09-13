@@ -1,0 +1,27 @@
+Device: Nothing Phone 2
+Device code name : Pong
+Device maintainer: GHOST
+
+Date - 13/09/2024
+=================
+• September security patch 
+• Add intelligent equalizer dolby settings
+• Add nothing charging control service (Thanks to Hellboy)
+• Move to QTI health AIDL service
+• Add OTG switch and Tile in DeviceExtra
+• Remove unnecessary thermal config
+• Fix glyph brightness preference
+• Fix music visualisation crash
+• Remove QTI perfd
+• Import, Adapt and tune powerhint for cape
+• Migrate to common libqti-perfd-client and power-libperfmgr
+• Set restricted cpuset to the same CPUs as system-background
+• Move background cpuset to CPU0-1
+• Do not allow foreground tasks to run on CPU7
+• Disable vendor.audio.feature.kpi_optimize.enable
+• Kill WALT CPU boosting
+
+Date - 24/08/2024
+=================
+• Initial build
+• August patch
