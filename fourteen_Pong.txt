@@ -2,6 +2,18 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 16/10/2024
+=================
+- Switch to AIDL fingerprint service
+- Build with meteoric kernel (ksu inbuilt)
+- Use HintManager for HWUI
+- Increase haptic vmax gain
+- Tune powerhint cpu, gpu freq for Pong
+- utilize task_profiles.json + cgroups.json
+- use AOSP FLAC decoder
+- Match BT props with stock
+- Set GPU idle timeout to 58 ms
+
 Date - 13/09/2024
 =================
 • September security patch 
