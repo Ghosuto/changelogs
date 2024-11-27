@@ -1,0 +1,39 @@
+Device: Nothing Phone 2 (Pong)
+Recommended Recovery: https://orangefox.download/device/pong
+Recommended kernel: https://mega.nz/file/K8sTBJgb#th68CouFFSIvoe4B1Qs9HEKIjzzOoRhaA1-Cqbynj8w
+
+Flashing Instructions:
+
+Recovery Build - with custom recovery
+
+• Flash custom recovery and then boot into recovery
+• Flash latest FW (no need if already using latest)
+• Flash Rom zip (If face error flash super_empty.img or try merge snapshot)
+• Reboot to recovery
+• Optional Flash kernel (For better experience and smoothness, ksu include)
+• Clean cache if dirty flash (format data if coming from different rom)
+• Boot
+
+Fastboot Build
+- Go to fastboot
+- Make sure to use latest platform tools
+- Reboot to bootloader
+If it's your first installation wipe data : fastboot -w
+- Then flash rom - fastboot update --skip-reboot (drag and drop rom zip)
+- Flash custom recovery (recommend)
+
+•• You can now boot into recovery and and do this
+- Clean cache if dirty flash (optional)
+- Flash Recommended kernel
+- Sideload/flash FW (no need if already using latest)
+- boot
+
+Firmware link - https://drive.google.com/drive/folders/1F-LD3pjx7mrjzpEYGvoeZ81s1ZUxXvQz?usp=sharing
+
+**A15 cause ui glitch if cache from previous build exists, So must clean cache if u see any UI glitch 
+
+/data/resources_cache 
+
+/data/system/package_cache
+
+Delete this 2 folder using recovery or any root file manager
