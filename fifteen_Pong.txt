@@ -1,0 +1,39 @@
+Device: Nothing Phone 2
+Device code name : Pong
+Device maintainer : GHOST
+Rom : Lunaris OS
+
+Date - 27/11/2024
+=================
+- Merge LA.QSSI.15.0.r1-11400-qssi.0
+- Add brand new clock faces (including some nothingos clock)
+- Add launcher3 circle to search 
+- Add back Charging control
+- Add back Depth Wallpaper feature
+- Add qs/status bar clock color option
+- Add Ambient display customisation (how to use? Read footer text in settings)
+- Improvements for detecting foreground app exit
+- Rework gamespace lock gesture feature
+- Configurable 0, 90, 180 and 270 degree rotation
+- Wake on plug
+- Add Cloudflare DNS as a private DNS provider
+- Add Aperture camera by default 
+- Enable expensive rendering for blur
+- Increase monet chroma and luminance max values
+- Expose clipboard auto clear setting
+- Add optional OOS qs media widget from risingos
+- Improve qs panel scrim colors
+- QS Panel layout improvements
+- Introduce automated Sleep Mode 
+- Introduce 5G toggle in internet connectivity dialog
+- Add different blur filter for lock and home screen wall
+- Add lawnchair option in quickswitch (not properly stable)
+- Add temperature to battery header
+- Add per connection Wifi mac addresses randomisation option 
+- Fix QS panel lag while expanding 
+- Add launcher recent transperency slider
+- Improve media art color detection
+- Improve system haptics
+- Add support for Strict standby policy
+- Update BCR to v1.74
+- Improvements to performance and system stability**
