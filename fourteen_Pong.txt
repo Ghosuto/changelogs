@@ -1,6 +1,6 @@
 Device: Nothing Phone 2 (Pong)
 Recommended Recovery: https://orangefox.download/device/pong
-Recommended kernel: https://mega.nz/file/K8sTBJgb#th68CouFFSIvoe4B1Qs9HEKIjzzOoRhaA1-Cqbynj8w
+Recommended kernel: https://vodro.mominurislam.workers.dev/0:/Meteoric-KernelSU-V5-Pong-241207-0813.zip
 
 Flashing Instructions:
 
