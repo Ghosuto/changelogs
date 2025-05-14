@@ -1,8 +1,8 @@
 Device: Nothing Phone 2 (Pong)
 
 Recommended Recovery: https://orangefox.download/device/pong
-Recommended kernel: https://gofile.io/d/wsf42a
-Firmware link - https://sourceforge.net/projects/nothing-archive/files/Pong/recovery_flashable_firmware/
+Recommended kernel: https://t.me/LunarisOS/141
+Firmware link - https://github.com/spike0en/pong_flashable_firmware
 
 Flashing Instructions:
 
