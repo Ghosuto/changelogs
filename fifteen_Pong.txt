@@ -3,7 +3,7 @@ Device code name : Pong
 Device maintainer : GHOST
 Rom : AxionAOSP
 
-Date - 25/05/2025
+Date - 16/05/2025
 =================
 - Switch back to prebuild audio blobs
 - Switch to PowerShare AIDL
