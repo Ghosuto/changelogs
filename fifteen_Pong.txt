@@ -3,19 +3,14 @@ Device code name : Pong
 Device maintainer : GHOST | ゴースト
 Rom : AxionAOSP
 
-Date - 09/06/2025
+Date - 22/06/2025
 =================
-- Sync latest meteotic kernel
-- Slightly bump min clamp boosting
-- Statusbar padding changes
-- Update audio and display hals
-- Disable HWC large comp perf hint
-- Drop qvr/qxr
-- Add libwfdservice_shim for WFD
-- Switch to NCM USB tethering
-- Reduce mlock() limit to 64 KB
-- Declare WiFi Aware support to WiFi HAL
-- Remove redundant mlock() limit setting
+- Sync axion 1.6
+- Update from NOS V3.0-250506-1805
+- Nothing Camera support
+- Optimize dalvik heap config for performance
+- Update dolby libs
+- Set fixed size to 3GB instead of 40% of RAM
 
 Date - 16/05/2025
 =================
